@@ -40,7 +40,7 @@ This README demonstrates useful markdown techniques for better project communica
 
 - [x] Fork the repo
 - [ ] Create feature branch
-- [ ] Submit PR for review
+- [ ] Submit PR for review 
 
 ---
 
